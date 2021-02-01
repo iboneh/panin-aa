@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: Alexey Panin
 date: 
 page_sections:
 - template: simple-header
